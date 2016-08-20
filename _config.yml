@@ -1,4 +1,3 @@
-layout_spectrum: 0.4069731526542455
 typography_spectrum: 0.721878926968202
 color:
   brandStrength: 0.573237327625975
@@ -11,4 +10,9 @@ color:
     - '#FFFFFF'
     - '#62564A'
     - '#FED5AB'
+layout_spectrum: 0.4069731526542455
+author:
+  name: Rick Minnich
+  email: info@rickfilms.de
+  url: www.rickfilms.de
 name: Our Man in Berlin
